@@ -1,0 +1,25 @@
+.text-align-cen {
+    text-align: center;
+    
+}
+
+.headingOne{
+    margin-top: 100px;
+    margin-bottom: 30px;
+   
+}
+
+
+.gameTitle{
+    margin-top: 90px;
+    margin-bottom: 50px;
+}
+
+.key-feature-list{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.credits{
+    margin-top: 150px;
+}
